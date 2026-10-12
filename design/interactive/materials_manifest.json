@@ -1,0 +1,267 @@
+{
+  "path_base": "relative to the web/ directory",
+  "materials": {
+    "wood": {
+      "asset_name": "Wood048",
+      "label_ru": "Светлая древесина",
+      "creator": "Lennart Demes / ambientCG",
+      "source": "https://ambientcg.com/view?id=Wood048",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "publisher_license_url": "https://docs.ambientcg.com/license/",
+      "repeat": [
+        1,
+        1
+      ],
+      "suggested_tile_metres": [
+        1.0,
+        2.0
+      ],
+      "normal_scale": 0.25,
+      "scale_note": "Illustrative UV recommendation; physical source coverage not verified.",
+      "maps": {
+        "color": {
+          "file": "assets/materials/Wood048_color.jpg",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Wood048/Wood048_1K-PNG_Color.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 61847,
+          "sha256": "4fa339bdc1fc3bab6332143933ffcc9ed001ed24ef0609f0584f766f12613f2c",
+          "color_space": "sRGB",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; JPEG quality 88 compression."
+        },
+        "normal": {
+          "file": "assets/materials/Wood048_normal.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Wood048/Wood048_1K-PNG_NormalGL.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 296050,
+          "sha256": "b784173b255359a73d507ff5657a69eb46254d10c377fb93bb5d2794f42871ff",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless RGB PNG; OpenGL normal orientation retained."
+        },
+        "roughness": {
+          "file": "assets/materials/Wood048_roughness.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Wood048/Wood048_1K-PNG_Roughness.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 137581,
+          "sha256": "9d19935c4ad0e2224e778f6c9ad720eb6a473205645f59e5d9dc47fb7ab34020",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless PNG; grayscale R/G/B-identical roughness."
+        }
+      },
+      "color": "assets/materials/Wood048_color.jpg",
+      "normal": "assets/materials/Wood048_normal.png",
+      "roughness": "assets/materials/Wood048_roughness.png"
+    },
+    "fabric": {
+      "asset_name": "Fabric036",
+      "label_ru": "Светлая ткань",
+      "creator": "Lennart Demes / ambientCG",
+      "source": "https://ambientcg.com/view?id=Fabric036",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "publisher_license_url": "https://docs.ambientcg.com/license/",
+      "repeat": [
+        1,
+        1
+      ],
+      "suggested_tile_metres": [
+        0.3,
+        0.3
+      ],
+      "normal_scale": 0.3,
+      "scale_note": "Illustrative UV recommendation; physical source coverage not verified.",
+      "maps": {
+        "color": {
+          "file": "assets/materials/Fabric036_color.jpg",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Fabric036/Fabric036_1K-PNG_Color.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 56646,
+          "sha256": "c3d8a44310143b1b5157cfc39c0b94cfc13cf31fe516ceff3a56524d36de9cc7",
+          "color_space": "sRGB",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; JPEG quality 88 compression."
+        },
+        "normal": {
+          "file": "assets/materials/Fabric036_normal.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Fabric036/Fabric036_1K-PNG_NormalGL.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 603580,
+          "sha256": "a29616fd5e5937637bb146bbc2a6fbe44137fa08057bc97c27b5374ec9244ff2",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless RGB PNG; OpenGL normal orientation retained."
+        },
+        "roughness": {
+          "file": "assets/materials/Fabric036_roughness.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Fabric036/Fabric036_1K-PNG_Roughness.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 171662,
+          "sha256": "48e5d2347cf0e0e4ad690b994af23eb77937cfac1fe7a8c6dbe6cf61d320a5cc",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless PNG; grayscale R/G/B-identical roughness."
+        }
+      },
+      "color": "assets/materials/Fabric036_color.jpg",
+      "normal": "assets/materials/Fabric036_normal.png",
+      "roughness": "assets/materials/Fabric036_roughness.png"
+    },
+    "plaster": {
+      "asset_name": "Plaster001",
+      "label_ru": "Светлая штукатурка",
+      "creator": "Lennart Demes / ambientCG",
+      "source": "https://ambientcg.com/view?id=Plaster001",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "publisher_license_url": "https://docs.ambientcg.com/license/",
+      "repeat": [
+        1,
+        1
+      ],
+      "suggested_tile_metres": [
+        2.0,
+        2.0
+      ],
+      "normal_scale": 0.12,
+      "scale_note": "Illustrative UV recommendation; physical source coverage not verified.",
+      "maps": {
+        "color": {
+          "file": "assets/materials/Plaster001_color.jpg",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Plaster001/Plaster001_1K-PNG_Color.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 26830,
+          "sha256": "79964a909fc10c3502befd1097e2ee6d67c2916f7e26daaa1816ee27a933ff9d",
+          "color_space": "sRGB",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; JPEG quality 88 compression."
+        },
+        "normal": {
+          "file": "assets/materials/Plaster001_normal.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Plaster001/Plaster001_1K-PNG_NormalGL.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 476925,
+          "sha256": "262b63501658af865dbfdd416511928f4ea8652d62c2a4d97f56218da6e38846",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless RGB PNG; OpenGL normal orientation retained."
+        },
+        "roughness": {
+          "file": "assets/materials/Plaster001_roughness.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Plaster001/Plaster001_1K-PNG_Roughness.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 101464,
+          "sha256": "f3217e65471b8fc8f13e32a1a7fc949b79106e8c9dd48229267784bc091e77f7",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless PNG; grayscale R/G/B-identical roughness."
+        }
+      },
+      "color": "assets/materials/Plaster001_color.jpg",
+      "normal": "assets/materials/Plaster001_normal.png",
+      "roughness": "assets/materials/Plaster001_roughness.png"
+    },
+    "stone": {
+      "asset_name": "Marble014",
+      "label_ru": "Светлый мрамор",
+      "creator": "Lennart Demes / ambientCG",
+      "source": "https://ambientcg.com/view?id=Marble014",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "publisher_license_url": "https://docs.ambientcg.com/license/",
+      "repeat": [
+        1,
+        1
+      ],
+      "suggested_tile_metres": [
+        1.2,
+        1.2
+      ],
+      "normal_scale": 0.06,
+      "scale_note": "Illustrative UV recommendation; physical source coverage not verified.",
+      "maps": {
+        "color": {
+          "file": "assets/materials/Marble014_color.jpg",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Marble014/Marble014_1K-PNG_Color.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 53252,
+          "sha256": "6e820b19e6d3bc1057b19e19778f6f7ddc5e537682e7634d589c65e44c40cea7",
+          "color_space": "sRGB",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; JPEG quality 88 compression."
+        },
+        "normal": {
+          "file": "assets/materials/Marble014_normal.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Marble014/Marble014_1K-PNG_NormalGL.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 129154,
+          "sha256": "1babd4cd79a7fe6b7ea308cbc6b6938abe093ab8f842247d77ba6c5a12d145e1",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless RGB PNG; OpenGL normal orientation retained."
+        },
+        "roughness": {
+          "file": "assets/materials/Marble014_roughness.png",
+          "source_download": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/84af0b4614c22c9028143da786fe6f9889bfee70/packs/ambientcg-textures/textures/Marble014/Marble014_1K-PNG_Roughness.ktx2",
+          "dimensions": [
+            512,
+            512
+          ],
+          "bytes": 129540,
+          "sha256": "894f85e9d7e5c45a7d0ada524b6cb7b399401a2b1f9b821955fd435ce6caee13",
+          "color_space": "linear",
+          "modifications": "Decoded largest 512px mip from UASTC KTX2; lossless PNG; grayscale R/G/B-identical roughness."
+        }
+      },
+      "color": "assets/materials/Marble014_color.jpg",
+      "normal": "assets/materials/Marble014_normal.png",
+      "roughness": "assets/materials/Marble014_roughness.png"
+    }
+  },
+  "environment": {
+    "asset_name": "Venice Sunset 1K",
+    "path": "assets/materials/venice_sunset_1k.hdr",
+    "source": "https://polyhaven.com/a/venice_sunset",
+    "source_download": "https://raw.githubusercontent.com/pmndrs/drei-assets/master/hdri/venice_sunset_1k.hdr",
+    "license": "CC0-1.0",
+    "license_url": "https://polyhaven.com/license",
+    "license_evidence": "https://github.com/pmndrs/drei-assets/blob/master/README.md",
+    "dimensions": [
+      1024,
+      512
+    ],
+    "bytes": 1397783,
+    "sha256": "0e72ed46b5316cb5fb67fc81ff85b024a09146fd89ef3811a8d2299647ada118",
+    "modifications": "None; original Radiance HDR bytes."
+  },
+  "provenance": {
+    "mirror": "https://github.com/Papyszoo/CC0-Public-Domain-Textures",
+    "pinned_sha": "84af0b4614c22c9028143da786fe6f9889bfee70",
+    "license_evidence": "https://github.com/Papyszoo/CC0-Public-Domain-Textures/blob/84af0b4614c22c9028143da786fe6f9889bfee70/README.md",
+    "notes": "ambientCG official hosts unavailable from current network; assets downloaded from a pinned CC0 GitHub mirror. Real source maps decoded from KTX2, not procedurally fabricated."
+  }
+}
