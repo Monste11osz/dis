@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1000" viewBox="0 0 1100 1000">
+<rect width="1100" height="1000" fill="#faf9f5"/><style>text{font-family:Arial,sans-serif;fill:#30352c} .s{font-size:16px}.l{font-size:20px}.d{stroke:#89917d;stroke-width:1.5;fill:none}</style>
+<text x="55" y="55" font-size="28">Ванна в исходном санузле · предварительная расстановка</text>
+<text x="55" y="87" class="s">5,1 м² по экспликации. Размеры 2,82 × 1,82 м взяты из условной модели — требуется обмер.</text>
+<g transform="translate(155 185)">
+<rect width="705" height="455" fill="#edece4" stroke="#5f6856" stroke-width="14"/>
+<rect x="15" y="15" width="425" height="175" rx="12" fill="#fff" stroke="#8f9f97" stroke-width="3"/>
+<rect x="38" y="38" width="379" height="129" rx="48" fill="#e6eef0" stroke="#c0d0d2"/>
+<text x="227" y="100" text-anchor="middle" class="l">Ванна 170 × 70</text>
+<text x="227" y="129" text-anchor="middle" class="s">доступ к сифону со стороны экрана</text>
+<rect x="520" y="15" width="170" height="120" rx="5" fill="#c9b28c" stroke="#8c7b60" stroke-width="2"/>
+<ellipse cx="605" cy="72" rx="57" ry="32" fill="#fff" stroke="#a7b4ae"/>
+<text x="605" y="157" text-anchor="middle" class="s">Тумба 60–70 см</text>
+<rect x="15" y="290" width="150" height="150" fill="#fff" stroke="#9ba59d" stroke-width="2"/>
+<text x="90" y="350" text-anchor="middle" class="s">Стиральная</text><text x="90" y="375" text-anchor="middle" class="s">60 × 60</text>
+<path d="M170 365 H250" class="d"/><path d="M250 365 l-10 -6 m10 6 l-10 6" class="d"/>
+<text x="194" y="404" class="s">фронт →</text>
+<rect x="648" y="266" width="42" height="110" rx="8" fill="#fff" stroke="#9ba59d"/>
+<ellipse cx="605" cy="320" rx="62" ry="47" fill="#fff" stroke="#9ba59d" stroke-width="2"/>
+<text x="604" y="411" text-anchor="middle" class="s">Напольный унитаз</text>
+<text x="352" y="260" text-anchor="middle" class="l">Проход / обслуживание</text>
+<line x1="220" y1="455" x2="420" y2="455" stroke="#faf9f5" stroke-width="17"/>
+<path d="M220 455 V655 M420 455 A200 200 0 0 1 220 655" fill="none" stroke="#b88b64" stroke-width="2" stroke-dasharray="6 5"/>
+<line x1="0" y1="-35" x2="705" y2="-35" class="d"/><line x1="0" y1="-43" x2="0" y2="-27" class="d"/><line x1="705" y1="-43" x2="705" y2="-27" class="d"/>
+<text x="352" y="-49" text-anchor="middle" class="l">≈ 2 820 мм</text>
+<line x1="-38" y1="0" x2="-38" y2="455" class="d"/><text transform="translate(-56 230) rotate(-90)" text-anchor="middle" class="l">≈ 1 820 мм</text>
+</g>
+<rect x="0" y="880" width="1100" height="120" fill="#faf9f5"/>
+<text x="55" y="910" class="s">Открывание двери показано наружу условно: проверить прихожую, коллизии и проектную допустимость.</text>
+<text x="55" y="938" class="s">Проверить стояк/выпуск, реальные корпуса, люк, зоны электрики и открывание стиральной машины.</text>
+<text x="55" y="966" class="s">Это новая идея с ванной. В ранее опубликованном HTML показан душ; он пока не заменён.</text>
+</svg>
