@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-14T03:56:34.965Z",
+  "file": "Apartment_Tour.html",
+  "browser": "154.0.8037.57",
+  "desktopViewport": [
+    1280,
+    900
+  ],
+  "mobileViewport": [
+    390,
+    844
+  ],
+  "loadMethod": "Playwright setContent; offline context; direct file navigation not tested",
+  "errors": [],
+  "externalRequests": [],
+  "panoramaDrag": true,
+  "zoom": true,
+  "sixRooms": true,
+  "map": true,
+  "modelOrbit": true,
+  "cut": true,
+  "dialog": true,
+  "mobileNoOverflow": true,
+  "offline": true,
+  "noWebGLFallback": {
+    "fallbackImage": true,
+    "disabled3DControls": true,
+    "informationDialog": true,
+    "errors": []
+  },
+  "htmlSha256": "1714c48b22251a4abc1aa0d4edf92937740dd26ccdb592662b051a268c8c3e24",
+  "htmlBytes": 19473592,
+  "visualReview": [
+    "six rendered panoramas",
+    "desktop living and bathroom",
+    "3D overview and top view",
+    "mobile layout"
+  ]
+}
